@@ -1,6 +1,7 @@
 # Hi there, I'm Behailu - aka baya 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]([https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr](https://x.com/Behailubk))
+[![X Follow](https://img.shields.io/twitter/follow/Behailubk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/Behailubk)
+
 
 
 ## I'm a Friend, Student and Believer!!
@@ -57,10 +58,7 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#68461](https://github.com/vercel/next.js/pull/68461#issuecomment-2266284188) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266031546) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 💪 Opened PR [#68461](https://github.com/vercel/next.js/pull/68461) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -72,13 +70,6 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: [https://twitter.com/codeSTACKr](https://x.com/Behailubk)
+[instagram]: https://www.instagram.com/behailubk/
+[linkedin]: [https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/behailu-bedada-42a5b624a/)
