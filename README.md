@@ -1,6 +1,3 @@
-Here's the reorganized version of your README:
-
----
 
 # Hi there, I'm Behailu - aka baya 👋 
 
